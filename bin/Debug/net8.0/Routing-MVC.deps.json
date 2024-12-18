@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Routing-MVC/1.0.0": {
+        "runtime": {
+          "Routing-MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Routing-MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
