@@ -28,3 +28,4 @@
 /Users/emrahelis/Routing-MVC/obj/Debug/net8.0/Routing-MVC.pdb
 /Users/emrahelis/Routing-MVC/obj/Debug/net8.0/Routing-MVC.genruntimeconfig.cache
 /Users/emrahelis/Routing-MVC/obj/Debug/net8.0/ref/Routing-MVC.dll
+/Users/emrahelis/Routing-MVC/obj/Debug/net8.0/Routing-MVC.sourcelink.json
